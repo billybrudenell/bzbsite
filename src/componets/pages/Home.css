@@ -1,0 +1,13 @@
+.heading-container {
+  padding-top: 50px;
+  max-width: 50%;
+  margin: auto;
+  position: relative;
+  align-items: center;
+}
+.heading {
+  font-size: 100px;
+  font-weight: bold;
+  text-align: center;
+  color: #f39f5a;
+}
